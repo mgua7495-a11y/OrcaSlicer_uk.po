@@ -22,45 +22,49 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 msgid "right"
-msgstr ""
+msgstr "правий"
 
 msgid "left"
-msgstr ""
+msgstr "лівий"
 
 msgid "right extruder"
-msgstr ""
+msgstr "правий екструдер"
 
 msgid "left extruder"
-msgstr ""
+msgstr "лівий екструдер"
 
 msgid "extruder"
-msgstr ""
+msgstr "екструдер"
 
 msgid "TPU is not supported by AMS."
 msgstr "TPU не підтримується AMS."
 
 msgid "AMS does not support 'Bambu Lab PET-CF'."
-msgstr ""
+msgstr "AMS не підтримує 'Bambu Lab PET-CF'."
 
 msgid ""
 "Please cold pull before printing TPU to avoid clogging. You may use cold "
 "pull maintenance on the printer."
 msgstr ""
+"Перед друком TPU виконайте холодне витягування щоб уникнути засмічення " 
+"Ви можете скористатися функцією холодного витягування в меню обслуговування принтера."
 
 msgid ""
 "Damp PVA will become flexible and get stuck inside AMS, please take care to "
 "dry it before use."
 msgstr ""
-"Вологий PVA стає гнучким і може застрягти всередині AMS, будь ласка, "
-"обережно висушіть його перед використанням."
+"Вологий PVA стає гнучким і застрягне всередині AMS "
+"Обов'язково висушіть його перед використанням."
 
 msgid "Damp PVA is flexible and may get stuck in extruder. Dry it before use."
-msgstr ""
+msgstr "Вологий PVA гнучкий і може застрягти в екструдері. Висушіть його перед використанням."
 
 msgid ""
 "The rough surface of PLA Glow can accelerate wear on the AMS system, "
 "particularly on the internal components of the AMS Lite."
 msgstr ""
+"Шорстка поверхня PLA Glow може прискорити знос системи AMS, " 
+"зокрема внутрішніх компонентів AMS Lite."
 
 msgid ""
 "CF/GF filaments are hard and brittle, it's easy to break or get stuck in "
