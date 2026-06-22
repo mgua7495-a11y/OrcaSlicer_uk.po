@@ -74,14 +74,14 @@ msgstr ""
 "можуть застряти в AMS, будьте обережні під час використання."
 
 msgid "PPS-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPS-CF є крихким і може зламатися у вигнутій PTFE-трубці над друкувальною голівкою."
 
 msgid "PPA-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPA-CF є крихким і може зламатися у вигнутій PTFE-трубці над друкувальною голівкою."
 
 #, c-format, boost-format
 msgid "%s is not supported by %s extruder."
-msgstr ""
+msgstr "%s не підтримується %s екструдером."
 
 msgid "Current AMS humidity"
 msgstr "Поточна вологість AMS"
@@ -93,13 +93,13 @@ msgid "Temperature"
 msgstr "Температура"
 
 msgid "Left Time"
-msgstr "Часу залишилося"
+msgstr "Залишок часу"
 
 msgid "Drying"
-msgstr "Сушка"
+msgstr "Сушіння"
 
 msgid "Idle"
-msgstr "Холостий хід"
+msgstr "Очікування"
 
 msgid "Model:"
 msgstr "Модель:"
@@ -114,7 +114,7 @@ msgid "Latest version"
 msgstr "Остання версія"
 
 msgid "Support Painting"
-msgstr "Малювання Підтримок"
+msgstr "Малювання підтримок"
 
 msgid "Perform"
 msgstr "Виконати"
@@ -123,7 +123,7 @@ msgid "On highlighted overhangs only"
 msgstr "Тільки на підсвічених нависанняхх"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Стерти все"
 
 msgid "Highlight overhang areas"
 msgstr "Підсвічувати області нависань"
@@ -132,22 +132,22 @@ msgid "Tool type"
 msgstr "Тип інструменту"
 
 msgid "Gap fill"
-msgstr "Заповнення прогалин"
+msgstr "Заповнення зазорів"
 
 msgid "Reset direction"
 msgstr "Скинути напрямок"
 
 msgid "Section view"
-msgstr "Вид у розрізі"
+msgstr "Вигляд у розрізі"
 
 msgid "Brush size"
-msgstr "Розмір пера"
+msgstr "Розмір пензля"
 
 msgid "Smart fill angle"
 msgstr "Кут розумного заповнення"
 
 msgid "Gap area"
-msgstr "Площа прогалини"
+msgstr "Площа зазору"
 
 msgid "Left mouse button"
 msgstr "Ліва кнопка миші"
@@ -165,10 +165,10 @@ msgid "Erase"
 msgstr "Стерти"
 
 msgid "Mouse wheel"
-msgstr "Колісок миші"
+msgstr "Коліщатко миші"
 
 msgid "Auto support threshold angle: "
-msgstr "Поріг кута автоматичної підтримки: "
+msgstr "Пороговий кут автоматичних підтримок: "
 
 msgid "Circle"
 msgstr "Коло"
@@ -177,26 +177,26 @@ msgid "Sphere"
 msgstr "Сфера"
 
 msgid "Fill"
-msgstr "Заповнення"
+msgstr "Заливка"
 
 msgid "Gap Fill"
-msgstr "Заповнення прогалин"
+msgstr "Заповнення зазорів"
 
 #, boost-format
 msgid "Allows painting only on facets selected by: \"%1%\""
-msgstr "Малювання лише на вибраних гранях: \"%1%\""
+msgstr "Дозволяє малювати лише на гранях, вибраних за допомогою: \"%1%\""
 
 msgid "Highlight faces according to overhang angle."
 msgstr "Підсвічувати грані відповідно до кута нависання."
 
 msgid "No auto support"
-msgstr "Без автоматичної підтримки"
+msgstr "Без автоматичних підтримок"
 
 msgid "Done"
-msgstr "Виконано"
+msgstr "Готово"
 
 msgid "Support Generated"
-msgstr "Згенеровані підтримки"
+msgstr "Підтримки згенеровано"
 
 msgid "Gizmo-Place on Face"
 msgstr "Gizmo - Покласти на грань"
